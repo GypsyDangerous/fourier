@@ -1,2 +1,2 @@
 # fourier
-my fourier transform projects
+Dan Shiffman's Fourier Transform program ported to processing.
