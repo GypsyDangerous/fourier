@@ -1,3 +1,4 @@
+//This is the class for complex numbers, it has many function that aren't used in this program but they this class could be copied and used in another program
 class Complex
 {
   float re;
