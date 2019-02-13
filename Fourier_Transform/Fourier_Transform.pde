@@ -1,3 +1,16 @@
+/*---------------------------------------------------------------------------------------------------------------------------------------//
+This Code is based on the coding challenge 130.x by Dan Shiffman
+Watch the videos at 
+Part 1: https://youtu.be/MY4luNgGfms  
+Part 2: https://youtu.be/n9nfTxp_APM  
+Part 3: https://thecodingtrain.com/CodingChallenges/130.3-fourier-transform-drawing.html
+This code is fundamentally very similat as the code in that challenge, but due to the limits of Processing
+There are many differences in the syntax of the code. There is Currently no way to draw a path from an image, like the coding train logo.
+I think it is possible to add this feature, but I don't know how.
+//---------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
 //The states for switching between user drawing and fourier drawing
 int USER = 0;
 int FOURIER = 1;
